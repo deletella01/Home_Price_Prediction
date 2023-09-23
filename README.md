@@ -18,4 +18,4 @@ Technology and tools used in this project include:
 
 An EC2 instance using Amazon console was created and The Web Application is hosted on the free server provided by Amazon Web Services. Nginx is used to connect the Front-end and Back-end to the AWS EC2 server.
 
-Check out the Fully functional website running in a production cloud environment: [Home Price](http://http://ec2-13-53-143-109.eu-north-1.compute.amazonaws.com/)
+Check out the Fully functional website running in a production cloud environment: [Home Price](http://ec2-13-53-143-109.eu-north-1.compute.amazonaws.com/)
