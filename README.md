@@ -1,6 +1,6 @@
-![mylogo](landing page.png)
+![my logo](landing page.png)
 
-# Home Price Prediction
+# [Home Price Prediction](https://deletella01.github.io/Home-Price-Prediction/)
 Home Price is a web application that predicts the estimated cost of Accommodation in Bangalore, India. The user will provide the size of accommodation in square feet(Area), Number of Rooms, Number of Bathrooms and desired Location. The application uses a Machine Learning Linear Regression technique to develop a model trained with a dataset of prices in Bangalore, India, obtained from kaggle.com. A Python flask server that uses the saved model to serve HTTP requests is written and the website is built in HTML, CSS and JavaScript which calls the Python flask server to retrieve the predicted price based on user input. 
 
 Technology and tools used in this project include:
